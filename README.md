@@ -1,7 +1,7 @@
 ### Hello Developers!!👨‍💻👩‍💻
  <div style="text-align:center; ">
   <h5>My name is Luis Gustavo</h5>
-  <p>I'm from Franca - Sp, I study Information of System in UFU (College Federation of Uberlandia). Currently I'm a Front-end developer, my focus is developer, contribute and solve everyday problems with the programming</p>
+  <p>I'm from Uberlândia -MG, I study Information of System in UFU (College Federation of Uberlandia). Currently I'm a Front-end developer, my focus is developer, contribute and solve everyday problems with the programming</p>
  <div>
  <div>
    <a href="https://github.com/rafaballerini">
