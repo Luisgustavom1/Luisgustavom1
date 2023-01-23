@@ -1,7 +1,10 @@
 ### Hello Developers!!👨‍💻👩‍💻
  <div style="text-align:center; ">
   <h5>My name is Luis Gustavo</h5>
-  <p>I'm from Uberlândia - MG, I study Information of System in UFU (College Federation of Uberlandia). Currently I'm a Front-end developer, my focus is developer, contribute and solve everyday problems with the programming</p>
+  <p>I like to solve problems, simplify life and innovate using programming and creativity. Today I
+work as a Frontend React developer, but passionate about the whole world of technology
+and not just studying and practicing only this area. I am studying information systems at the
+Federal University of Uberlândia - UFU</p>
   <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and construction of system designs.</p>
  <div>
  <div>
