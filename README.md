@@ -5,7 +5,7 @@
 work as a Frontend React developer, but passionate about the whole world of technology
 and not just studying and practicing only this area. I am studying information systems at the
 Federal University of Uberlândia - UFU</p>
-  <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and construction of system designs.</p>
+  <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and construction of design system.</p>
  <div>
  <div>
    <a href="https://github.com/rafaballerini">
