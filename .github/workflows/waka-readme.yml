@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "* * * * *"
-
+    - cron: "0 0 * * *"
+    
 jobs:
   update-readme:
     name: Update my Readme with DevMetrics
@@ -20,4 +20,3 @@ jobs:
           SHOW_MASKED_TIME: true
           LANG_COUNT: 5
           COMMIT_MESSAGE: false
-          SHOW_COMMIT: false
