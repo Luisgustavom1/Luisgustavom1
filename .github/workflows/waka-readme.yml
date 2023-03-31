@@ -20,5 +20,3 @@ jobs:
           SHOW_MASKED_TIME: true
           LANG_COUNT: 5
           COMMIT_MESSAGE: false
-          SHOW_COMMIT: "False"
-
