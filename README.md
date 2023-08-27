@@ -2,8 +2,7 @@
  <div style="text-align:center; ">
   <h5>My name is Luis Gustavo</h5>
   <p>I like to solve problems, simplify life and innovate using programming and creativity. Today I
-work as a Frontend React developer, but passionate about the whole world of technology
-and not just studying and practicing only this area. I am studying information systems at the
+work as a Software developer, passionate about the whole world of technology. I am studying information systems at the
 Federal University of Uberlândia - UFU</p>
   <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and construction of design system.</p>
  <div>
