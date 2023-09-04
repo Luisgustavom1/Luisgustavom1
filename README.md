@@ -1,10 +1,20 @@
 ### Hey Developers!!👨‍💻👩‍💻
  <div style="text-align:center; ">
   <h5>My name is Luis Gustavo</h5>
-  <p>I like to solve problems, simplify life and innovate using programming and creativity. Today I
-work as a Software developer, passionate about the whole world of technology. I am studying information systems at the
-Federal University of Uberlândia - UFU</p>
-  <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and construction of design system.</p>
+  <p>
+   Product-oriented and customer/user-focused software engineer. With more than 2 years of
+experience in building and maintaining web applications. With a focus on performance, scalability
+and accessibility, using ReactJs, NextJs, Typescript, Node, AWS, Golang and other relevant technologies.
+  </p>
+  <p>
+   Passionate about solving problems, simplifying life and innovating using programming and
+creativity.
+  </p>
+ <p>
+   Driven by challenges and goals that will have some impact on people's daily lives. I am currently studying information systems at the
+Federal University of Uberlândia - UFU
+ </p>
+ <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and AWS.</p>
  <div>
  <div>
    <a href="https://github.com/rafaballerini">
