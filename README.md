@@ -15,6 +15,28 @@ creativity.
 Federal University of Uberlândia - UFU
  </p>
  <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and AWS.</p>
+  <section>
+    <h5>My last articles</h5>
+    <div>
+     <ul>
+       <li>
+         <a href="https://dev.to/luisgustavom1/typescript-union-types-and-type-guards-14gh">
+          Typescript - Union types e type guards
+         </a>
+       </li>
+      <li>
+         <a href="https://dev.to/luisgustavom1/a-golang-bot-to-count-down-the-best-day-of-your-life-the-holidays-3b5e">
+          A Golang bot to count down the best day of your life - the holidays
+         </a>
+       </li>
+       <li>
+         <a href="https://dev.to/luisgustavom1/typescript-type-system-15dd">
+          Typescript - Type System
+         </a>
+       </li>
+     </ul>
+    </div>
+  </section>
  <div>
  <div>
    <a href="https://github.com/rafaballerini">
