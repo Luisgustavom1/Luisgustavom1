@@ -17,9 +17,11 @@ Federal University of Uberlândia - UFU
  <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and AWS.</p>
  <ul>
    <li>
-    <a href="https://gdg.community.dev/gdg-uberlandia/">
-     📆 Volunteer at GDG Uberlândia
+    <p>
+     📆 Volunteer at <a href="https://gdg.community.dev/gdg-uberlandia/">
+      GDG Uberlândia
     </a>
+    </p>
    </li>
   </ul>
   <section>
