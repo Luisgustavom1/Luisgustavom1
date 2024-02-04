@@ -3,7 +3,7 @@
   <h5>My name is Luis Gustavo</h5>
   <p>
    Product-oriented and customer/user-focused software engineer. With more than 2 years of
-experience in building and maintaining web applications. With a focus on performance, scalability
+experience in building and maintaining end to end web applications. With a focus on performance, scalability
 and accessibility, using ReactJs, NextJs, Typescript, Node, AWS, Golang and other relevant technologies.
   </p>
   <p>
@@ -15,6 +15,13 @@ creativity.
 Federal University of Uberlândia - UFU
  </p>
  <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and AWS.</p>
+ <ul>
+   <li>
+    <a href="https://gdg.community.dev/gdg-uberlandia/">
+     📆 Volunteer at GDG Uberlândia
+    </a>
+   </li>
+  </ul>
   <section>
     <h5>My last articles</h5>
     <div>
