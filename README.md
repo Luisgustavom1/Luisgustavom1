@@ -2,7 +2,7 @@
  <div style="text-align:center; ">
   <h5>My name is Luis Gustavo</h5>
   <p>
-   Product-oriented and customer/user-focused software engineer. With more than 2 years of
+   Product-oriented and customer/user-focused software engineer. With more than 3 years of
 experience in building and maintaining end to end web applications. With a focus on performance, scalability
 and accessibility, using ReactJs, NextJs, Typescript, Node, AWS, Golang and other relevant technologies.
   </p>
