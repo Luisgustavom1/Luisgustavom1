@@ -45,6 +45,28 @@ Federal University of Uberlândia - UFU
      </ul>
     </div>
   </section>
+   <section>
+    <h5>Some of my last open source contributions</h5>
+    <div>
+     <ul>
+       <li>
+         <a href="https://github.com/nats-io/nats-server/pull/6154">
+          Nats Server
+         </a>
+       </li>
+      <li>
+         <a href="https://github.com/eatonphil/livescheme/pull/1">
+          Scheme-like language in Golang
+         </a>
+       </li>
+       <li>
+         <a href="https://github.com/medeirotech/bot/pull/2">
+          Medeiros tech bot
+         </a>
+       </li>
+     </ul>
+    </div>
+  </section>
  <div>
  <div>
    <a href="https://github.com/rafaballerini">
