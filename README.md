@@ -22,6 +22,11 @@ Federal University of Uberlândia - UFU
     </a>
     </p>
    </li>
+   <li>
+    <p>
+     Maintainer of <a href="https://github.com/tech-leads-club/awesome-tech-lead">Awesome Tech Lead</a>
+    </p>
+   </li>
   </ul>
   <section>
     <h5>My last articles</h5>
@@ -55,15 +60,20 @@ Federal University of Uberlândia - UFU
          </a>
        </li>
       <li>
-         <a href="https://github.com/eatonphil/livescheme/pull/1">
-          Scheme-like language in Golang
+         <a href="https://github.com/tech-leads-club/awesome-tech-lead/pull/26">
+          Awesome tech lead
          </a>
        </li>
        <li>
-         <a href="https://github.com/medeirotech/bot/pull/2">
-          Medeiros tech bot
+         <a href="https://github.com/silevis/reactgrid/pull/514">
+           React Grid
          </a>
        </li>
+       <li>
+        <a href="https://github.com/adazzle/react-data-grid/pull/3520">
+          React Data Grid
+        </a>
+       </li> 
      </ul>
     </div>
   </section>
