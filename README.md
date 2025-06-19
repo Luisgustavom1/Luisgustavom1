@@ -14,7 +14,9 @@ creativity.
 Federal University of Uberlândia - UFU
  </p>
  <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and AWS.</p>
- <ul>
+ <section>
+<h5>Community Activities</h5>
+  <ul>
    <li>
     <p>
      📆 Volunteer at <a href="https://gdg.community.dev/gdg-uberlandia/">
@@ -28,6 +30,7 @@ Federal University of Uberlândia - UFU
     </p>
    </li>
   </ul>
+  </section>
   <section>
     <h5>My last articles</h5>
     <div>
