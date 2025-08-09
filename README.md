@@ -14,6 +14,40 @@ creativity.
 Federal University of Uberlândia - UFU
  </p>
  <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and AWS.</p>
+  <section>
+   <ul>
+    <li>
+     <a href="https://dev.to/luisgustavom1">
+     My Blog
+    </a>
+    </li>
+   </ul>
+   </section>
+<section>
+<h5>My cool projects</h5>
+<ul>
+ <li>
+  <a href="https://linus-torvalds-code-review.vercel.app/pt-br">
+   Linus Torvalds Code Review
+  </a>
+ </li>
+<li>
+ <a href="https://github.com/Luisgustavom1/jira-version-release">
+  Jira Version Release
+ </a>
+</li>
+<li>
+ <a href="https://github.com/Luisgustavom1/one-more-coffee">
+  One More Coffee VsCode extension
+ </a>
+</li>
+<li>
+ <a href="https://github.com/Luisgustavom1/go-twitter-bot">
+  Twitter Count Down Bot
+ </a>
+</li>
+</ul>
+ </section>
  <section>
 <h5>Community Activities</h5>
   <ul>
@@ -30,28 +64,6 @@ Federal University of Uberlândia - UFU
     </p>
    </li>
   </ul>
-  </section>
-  <section>
-    <h5>My last articles</h5>
-    <div>
-     <ul>
-       <li>
-         <a href="https://dev.to/luisgustavom1/typescript-union-types-and-type-guards-14gh">
-          Typescript - Union types e type guards
-         </a>
-       </li>
-      <li>
-         <a href="https://dev.to/luisgustavom1/a-golang-bot-to-count-down-the-best-day-of-your-life-the-holidays-3b5e">
-          A Golang bot to count down the best day of your life - the holidays
-         </a>
-       </li>
-       <li>
-         <a href="https://dev.to/luisgustavom1/typescript-type-system-15dd">
-          Typescript - Type System
-         </a>
-       </li>
-     </ul>
-    </div>
   </section>
    <section>
     <h5>Some of my last open source contributions</h5>
