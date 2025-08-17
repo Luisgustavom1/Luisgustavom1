@@ -7,12 +7,8 @@ and accessibility, using ReactJs, NextJs, Typescript, Node, AWS, Golang and othe
   </p>
   <p>
    Passionate about solving problems, simplifying life and innovating using programming and
-creativity.
+creativity. Driven by challenges and goals that will have some impact on people's daily lives. 
   </p>
- <p>
-   Driven by challenges and goals that will have some impact on people's daily lives. I am currently studying information systems at the
-Federal University of Uberlândia - UFU
- </p>
  <p>Currently studying and expanding knowledge in Golang, Typescript Type system, and AWS.</p>
   <section>
    <ul>
