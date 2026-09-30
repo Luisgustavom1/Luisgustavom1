@@ -66,6 +66,11 @@ creativity. Driven by challenges and goals that will have some impact on people'
     <div>
      <ul>
        <li>
+        <a href="https://github.com/googleapis/nodejs-pubsub/pull/2071">
+         NodeJs google PubSub SDK 
+        </a>
+       </li>
+       <li>
          <a href="https://github.com/nats-io/nats-server/pull/6154">
           Nats Server
          </a>
@@ -85,11 +90,6 @@ creativity. Driven by challenges and goals that will have some impact on people'
           React Data Grid
         </a>
        </li> 
-      <li>
-       <a href="https://github.com/googleapis/nodejs-pubsub/pull/2071">
-        NodeJs google PubSub SDK 
-       </a>
-      </li>
      </ul>
     </div>
   </section>
